@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3915717102.index
+650885885.index
+2772675874.index
+3599228169.index
+3256755155.index
+660710048.index
+2045948420.index
+2096300227.index
+978741652.index
+761214410.index
+1103731059.index
+1734410825.index
+1510210605.index
+1083779580.index

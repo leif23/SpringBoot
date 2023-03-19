@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3520673839.index
+/displayDate/src/main/java
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1890095327.index
+/fruityLoops/src/main/java
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3357930863.index
+/Counter/src/main/java
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3573698788.index
+/HoppersReceipt/src/main/java
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/711212240.index
+/HoppersReceipt/src/main/java
+/Users/leiforosco/Documents/Java/SpringBoot/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/650885885.index
+/Omikuji/src/main/java
